@@ -87,7 +87,7 @@ export default function Album() {
               color="textSecondary"
               paragraph
             >
-              Something long and leading about the collection below—its
+              Something short and leading about the collection below—its
               contents, the creator, etc. Make it short and sweet, but not too
               short so folks don&apos;t simply skip over it entirely.
             </Typography>
@@ -128,7 +128,7 @@ export default function Album() {
                     </Typography>
                     <Typography>
                       This is a media card. You can use this section to describe
-                      the content.
+                      the content!
                     </Typography>
                   </CardContent>
                   <CardActions>
